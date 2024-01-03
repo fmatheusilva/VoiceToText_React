@@ -1,0 +1,13 @@
+.Mic{
+    width: 57%;
+    height: 57%;
+    background-color: rgb(185 28 28);
+    border-radius: 50%;
+    display: flex;
+    font-size: 13rem;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+}
